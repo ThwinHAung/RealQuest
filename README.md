@@ -1,6 +1,6 @@
 # real_quest
 
-Property renting app
+Property renting app frontend with Flutter
 
 ## Getting Started
 
