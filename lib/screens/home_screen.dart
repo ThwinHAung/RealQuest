@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:real_quest/components/main_layout.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -10,6 +11,6 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return MainLayout(body: Center(child: Text('Hello')));
   }
 }

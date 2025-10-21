@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:real_quest/home_screen.dart';
+import 'package:real_quest/screens/home_screen.dart';
 
 void main() {
   runApp(const RealQuest());
